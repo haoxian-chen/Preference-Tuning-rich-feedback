@@ -1,0 +1,5 @@
+numpy
+openai
+matplotlib
+ipywidgets
+datasets
