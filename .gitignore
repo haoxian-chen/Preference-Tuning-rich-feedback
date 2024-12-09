@@ -1,2 +1,5 @@
 image_editting/InstructDiffusion
 image_editting/PromptFix
+DiffusionDPO/diffusion-dpo-sd15
+DiffusionDPO/diffusion-dpo-sd15-improved
+DiffusionDPO/temp-sd15
