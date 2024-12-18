@@ -1,5 +1,3 @@
 # Preference-Tuning-rick-feedback
 
-Test, TBD.
-
-A wonderful work.
+Codebase for "Preference Tuning for Diffusion Models by Rich Feedback." Work in progress. 
